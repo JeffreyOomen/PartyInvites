@@ -1,0 +1,75 @@
+﻿@model PartyInvites.Domain.Entities.GuestResponse
+
+@{
+    ViewBag.Title = "RsvpForm";
+}
+
+<script>
+        function readURL(input) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+
+                reader.onload = function (e) {
+                    $('#profile_image')
+                        .attr('src', e.target.result)
+                        .width(200);
+                };
+
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+</script>
+
+<h2>Rsvp Form</h2>
+<div class="jumbotron">
+    @using (Html.BeginForm("RsvpForm", "Home", FormMethod.Post, new { enctype = "multipart/form-data" })) {
+        @Html.ValidationSummary()
+        <div class="form-group">
+            <label>Enter your name</label>
+            @Html.TextBoxFor(x => x.Name, new { @class = "form-control", autofocus = "autofocus" })
+        </div>
+
+        <div class="form-group">
+            <label>Enter your email</label>
+            @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Enter your phone</label>
+            @Html.TextBoxFor(x => x.Phone, new { @class = "form-control" })
+        </div>
+
+        <div class="form-group">
+            <label>Will you attend?</label>
+            @Html.DropDownListFor(x => x.WillAttend, new[] {
+                new SelectListItem() {
+                    Text = "Yes, I'll be there",
+                    Value = bool.TrueString
+                },
+                new SelectListItem() {
+                    Text = "No, I can't come",
+                    Value = bool.FalseString
+                }
+            }, "Choose an option", new {@class = "form-control"})
+        </div>
+
+        <div class="form-group">
+            <div style="position:relative;">
+                <label>Image</label>
+                <input class="" name="Image" type='file' onchange='readURL(this); $("#upload-file-info").html($(this).val())'/>
+                <br/>
+                <img id="profile_image"/>
+                <span class='label label-info hide' id="upload-file-info"></span>
+            </div>
+
+        </div><!--End of form-group-->
+
+        <div class="form-group">
+            <button class="btn btn-success" type="submit">Respond</button>
+        </div>
+    }
+
+    <br /> <br /><br />
+    @Html.ActionLink("Go back to home", "Index", null, new { @class = "btn btn-primary", @style = "color:white" })
+</div>
+

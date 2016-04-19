@@ -1,0 +1,23 @@
+﻿@model IEnumerable<string>
+
+<!-- If click on home, you will see all products -->
+@Html.ActionLink("All Responses", "GetGuests", "Home", null,
+    new { @class = "btn btn-block btn-default btn-lg" + (ViewBag.SelectedCategory == null ? " btn-primary" : "" )})
+
+<!-- If click on category, you will only see products in this category -->
+@foreach (var link in Model) {
+    string linkText = "Present";
+    if (link == "False") {
+        linkText = "Not Present";
+    }
+
+    @Html.RouteLink(linkText, new {
+    controller = "Home",
+    action = "GetGuests",
+    category = link,
+    page = 1
+    }, new {
+        @class = "btn btn-block btn-default btn-lg"
+            + (link == ViewBag.SelectedCategory ? " btn-primary" : "")
+    })
+}

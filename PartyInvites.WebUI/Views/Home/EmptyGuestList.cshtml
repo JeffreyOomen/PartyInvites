@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewBag.Title = "EmptyGuestList";
+}
+
+<div class="text-center jumbotron">
+    <h3>No reponses yet! Be the first of the invitees!</h3>
+    @Html.ActionLink("RSVP Now", "RsvpForm", null, new { @class = "btn btn-success", @style = "color:white" })
+    @Html.ActionLink("Go back to home", "Index", null, new { @class = "btn btn-primary", @style = "color:white" })
+</div>
+
+

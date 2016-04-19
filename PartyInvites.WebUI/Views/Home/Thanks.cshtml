@@ -1,0 +1,68 @@
+﻿@model PartyInvites.Domain.Entities.GuestResponse
+
+@{
+    ViewBag.Title = "Thanks";
+}
+
+
+<div class="jumbotron text-center">
+    @if (ViewBag.registerState == true) {
+        if (Model.WillAttend == true) {
+            <h2>It's great that you're coming, @Model.Name <br /> <small>The drinks are already in the fridge!</small></h2>
+            <img src="~/Images/drinks.png" width="400" /><br />
+        } else {
+            <h2>Sorry to hear that you can't make it, @Model.Name <br />  <small>Thanks for letting us know.</small></h2>
+            <img src="~/Images/notattend.jpg" /><br />
+        }
+    } else {
+        <h1>You are already registered!</h1>
+        <h3>You can change your presence by registering again</h3>
+        <hr style="border-color: blue"/>
+        <h3>Your details: </h3>
+
+        <table class="table table-hover">
+            <thead>
+            <tr>
+                <td>Profile</td>
+                <td>Name: </td>
+                <td>Email: </td>
+                <td>Phone: </td>
+                <td>Will Attend: </td>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>
+                    @if (Model.ImageData != null) {
+                        <img class="img-thumbnail" width="75" height="75"
+                             src="@Url.Action("GetImage", "Home",
+                          new {Model.Email})" />
+                    } else {
+                        <img class="img-thumbnail" width="75" height="75" src="~/Images/defaultImage.png" />
+                    }
+                </td>
+                <td>@Model.Name</td>
+                <td>@Model.Email</td>
+                <td>@Model.Phone</td>
+                <td>
+                    @if (Model.WillAttend == true) {
+                        @: Present
+                    }
+                    else {
+                        @: Not Present
+                    }
+                </td>
+            </tr>
+
+            </tbody>
+        </table>
+    }
+    <div class="jumbotron">
+        @Html.ActionLink("RSVP Now", "RsvpForm", null, new { @class = "btn btn-success", @style = "color:white" })
+
+
+        @Html.ActionLink("Go back to home", "Index", null, new { @class = "btn btn-primary", @style = "color:white" })
+        @Html.ActionLink("Guest List", "GetGuests", null, new { @class = "btn btn-warning", @style = "color:white" })
+    </div>
+</div>
+

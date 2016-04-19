@@ -1,0 +1,25 @@
+﻿@model PartyInvites.WebUI.Models.GuestListViewModel
+
+@{
+    ViewBag.Title = "AllGuests";
+}
+
+<div>
+    @Html.Action("Menu", "Nav")
+</div>
+
+<h1>Responses</h1>
+
+@foreach (var guest in Model.GuestResponses) {
+
+    @Html.Partial("GuestSummary", guest);
+
+}
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("GetGuests",
+        new { page = x, category = Model.CurrentCategory }))
+</div>
+
+@Html.ActionLink("RSVP Now", "RsvpForm", null, new { @class = "btn btn-success", @style = "color:white" })
+@Html.ActionLink("Go back to home", "Index", null, new { @class = "btn btn-primary", @style = "color:white" })

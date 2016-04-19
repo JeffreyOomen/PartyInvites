@@ -1,0 +1,122 @@
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\ApplicationInsights.config
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\csc.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\vbc.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\VBCSCompiler.exe
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\PartyInvites.WebUI.dll.config
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\PartyInvites.WebUI.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\PartyInvites.WebUI.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.Web.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.ApplicationInsights.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Moq.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.Web.Common.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.Web.Mvc.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\PartyInvites.Domain.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Helpers.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Mvc.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Razor.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.Deployment.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.Razor.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\WebActivatorEx.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\PartyInvites.Domain.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.Web.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.ApplicationInsights.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Moq.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.Web.Common.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.Web.Mvc.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Razor.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.Deployment.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.Razor.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Helpers.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Mvc.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\obj\Debug\PartyInvites.WebUI.csprojResolveAssemblyReference.cache
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\obj\Debug\PartyInvites.WebUI.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\obj\Debug\PartyInvites.WebUI.pdb
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\EntityFramework.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\EntityFramework.SqlServer.dll
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\EntityFramework.xml
+c:\users\jeffrey\documents\visual studio 2015\Projects\PartyInvitesPersistence\PartyInvites.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\ApplicationInsights.config
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\csc.exe
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\vbc.exe
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\PartyInvites.WebUI.dll.config
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\PartyInvites.WebUI.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\PartyInvites.WebUI.pdb
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\EntityFramework.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Moq.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\PartyInvites.Domain.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Razor.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\WebActivatorEx.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\PartyInvites.Domain.pdb
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\EntityFramework.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Moq.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Razor.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\obj\Debug\PartyInvites.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\obj\Debug\PartyInvites.WebUI.dll
+C:\Users\Jeffrey\Dropbox\_My_Avans\Avans_IVH7\ASP.NET\Opdrachten\PartyInvitesPersistence\PartyInvites.WebUI\obj\Debug\PartyInvites.WebUI.pdb
